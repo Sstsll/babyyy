@@ -1,0 +1,19 @@
+body{
+    margin:0;
+    padding: 0;
+    background:#000;
+}
+
+p {
+    font-size:8px;
+    line-height:8px;
+    text-align:justify;
+    -webkit-background-size:cover;
+    background-size:cover;
+    background-position: center;
+    background: url("https://o.remove.bg/downloads/18870445-9236-4ac6-847e-1d40f32771ea/370270917_1344408166436247_4151461012837137403_n-removebg-preview.png") no-repeat center/cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgb(225, 225, 255, -0);
+}
